@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Kalana Madushan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4171367-Coding-Freak/attachments/10240400?mode=media">
+<h3 align="center">Hellow there 🥰</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalanamadushan963&label=Profile%20views&color=0e75b6&style=flat" alt="kalanamadushan963" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kalana007pvt" target="blank"><img src="https://img.shields.io/twitter/follow/kalana007pvt?logo=twitter&style=for-the-badge" alt="kalana007pvt" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs,MERN,Blockchain**
+- 🌱 I’m currently learning **ReactJs, MERN, Blockchain**
 
 - 📫 How to reach me **kalanamadushan963@gmail.com**
 
-- ⚡ Fun fact **Love to play games amd editing and color grading.**
+- ⚡ Fun fact **Love to play games and photography 📸🕹 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
